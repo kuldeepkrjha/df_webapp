@@ -1,3 +1,3 @@
 # sec.DF.ASST
-this repo contains the contradictory stuffs.
-Hello my name is Yash
+this repo contains the SECURE DF-WING CASE STUDIES .
+Hello my name is kuldeep kr jha
