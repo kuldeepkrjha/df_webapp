@@ -48,7 +48,7 @@
 	- [ ] got a screenshot of 0.25 BTC transfer from an escrow (different).
 	- [ ] got some more songs
 	- [ ] looking a hotel at new location(where he is caught)
-	- [ ] looking for nearby guns shop and police stations.
+	- [ ] looking  for nearby guns shop and police stations.
 	- [ ] has photos of locality and the house.
 
 - [ ] 16-05-23
