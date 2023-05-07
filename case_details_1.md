@@ -77,8 +77,8 @@ The third suspect told that he is a traveller and currently visiting the city. T
   - [ ] Magnet Acquire
   
 ## Hints to solve case:
-  - [ ] Link to indian IPC codes as murder place takes place here.
-  - [ ] 
+  - [ ] Link to indian IPC codes (as murder place takes place here).
+  - [ ] Analysis of home desktop
   
 ## Submit Report:
    <- form - > to submit final report.
