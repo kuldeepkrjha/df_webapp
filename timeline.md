@@ -3,7 +3,7 @@
 	- [ ] Daughter looks up dresses for the bday party
 	- [ ] some screenshots of dresses and shows.
 	- [ ] songs and videos being downloaded.
-	- [ ] some docs also downloaded related to school and cibil school
+	- [ ] some docs also downloaded related to school
 	- [ ] looks up gifts and other things for the bday party.
 	- [ ] husband looks up cibil score
 	- [ ] wife looks up drama series.
