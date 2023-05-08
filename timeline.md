@@ -1,4 +1,4 @@
-## HOME COMPUTER [Hemant]:
+## HOME COMPUTER [?]:
 - [ ] 8-05-23
 	- [ ] Daughter looks up dresses for the bday party
 	- [ ] some screenshots of dresses and shows.
