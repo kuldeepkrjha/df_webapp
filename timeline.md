@@ -1,5 +1,5 @@
 ## HOME COMPUTER:
-- [ ] 7-05-23
+- [ ] 8-05-23
 	- [ ] Daughter looks up dresses for the bday party
 	- [ ] some screenshots of dresses and shows.
 	- [ ] songs and videos being downloaded.
@@ -9,7 +9,7 @@
 	- [ ] wife looks up drama series.
 	- [ ] posters of drama characters.
 	
-- [ ] 8-05-23
+- [ ] 9-05-23
 	- [ ] Daughter searches for Gifts and bday locations.
 	- [ ] some more screenshots/downloads.
 	- [ ] some family photos.
@@ -18,18 +18,18 @@
 	- [ ] husband looks up match scores.
 	- [ ] wife looks up what is darknet and some shady websites.
 
-- [ ] 11-05-23
+- [ ] 10-05-23
 	- [ ] ss of 0.5 BTC to someone across the internet. escrow
 	- [ ] Daughter looks up school assignments and related stuff
 	- [ ] husband looks up scores yet again, credit and debit cards.
 	- [ ] wife looks up divorce laws and rules, tor browser and bitcoin
 	- [ ] wife opens and setups paypal.
 
-- [ ] 12-05-23
+- [ ] 11-05-23
 	- [ ] daughter's school activities
 	- [ ] some more songs and music and videos.
 
-- [ ] 15-05-23
+- [ ] 16-05-23
 	- [ ] Murder takes place, all goes googoogaagaa, computer is broken
 	
 ## Killer Laptop:
