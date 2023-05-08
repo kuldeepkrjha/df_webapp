@@ -1,4 +1,4 @@
-## HOME COMPUTER:
+## HOME COMPUTER [Hemant]:
 - [ ] 8-05-23
 	- [ ] Daughter looks up dresses for the bday party
 	- [ ] some screenshots of dresses and shows.
@@ -32,7 +32,7 @@
 - [ ] 16-05-23
 	- [ ] Murder takes place, all goes googoogaagaa, computer is broken
 	
-## Killer Laptop:
+## Killer Laptop [Nadir] :
 - [ ] 8-05-23
 	- [ ] Some songs are downloaded. 
 	- [ ] tor browser and vpn is being downloaded.
@@ -56,7 +56,7 @@
 	- [ ] searched for orphanage and schools nearby
 	- [ ] ticket to new city, new state
 
-## Stalker's PD:
+## Stalker's PD [Hariji] :
 
 - [ ] Daughter's photo multiple
 - [ ] family photo
@@ -68,7 +68,7 @@
 - [ ] 3-5 text files of shayri written for daughter.
 - [ ] some photos of homies and nature and relevant stuff.
 
-## Honest Criminal Phone:
+## Honest Criminal Phone [Yashwardhan] :
 
 - [ ] screenshots of indeed.com/naukri.com/other stuff.
 - [ ] photo of housing area near murder incident
