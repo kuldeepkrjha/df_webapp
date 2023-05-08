@@ -33,10 +33,10 @@
 	- [ ] Murder takes place, all goes googoogaagaa, computer is broken
 	
 ## Killer Laptop [Nadir] :
-- [ ] 8-05-23
-	- [ ] Some songs are downloaded. 
-	- [ ] tor browser and vpn is being downloaded.
-	- [ ] tries to access shady website in IE.
+- [x] 8-05-23
+	- [x] Some songs are downloaded. 
+	- [x] tor browser and vpn is being downloaded.
+	- [x] tries to access shady website in IE.
 	
 - [ ] 10-05-23
 	- [ ] buys guns online
