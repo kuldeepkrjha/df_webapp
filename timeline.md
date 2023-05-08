@@ -70,12 +70,12 @@
 
 ## Honest Criminal Phone [Yashwardhan] :
 
-- [ ] screenshots of indeed.com/naukri.com/other stuff.
-- [ ] photo of housing area near murder incident
-- [ ] some searches for jobs and places to stay
-- [ ] some searches for apps and games and other stuff
-- [ ] atleast 20-25 contacts of bhaiya, mama, dealer1, dealer2, etc (should mislead)
-- [ ] ss of wholesome memes and motivational quotes.
-- [ ] songs locally downloaded.
+- [x] screenshots of indeed.com/naukri.com/other stuff.
+- [x] photo of housing area near murder incident
+- [x] some searches for jobs and places to stay
+- [x] some searches for apps and games and other stuff
+- [x] atleast 20-25 contacts of bhaiya, mama, dealer1, dealer2, etc (should mislead)
+- [x] ss of wholesome memes and motivational quotes.
+- [x] songs locally downloaded.
 - [ ] some personal photos.
 
