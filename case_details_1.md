@@ -51,11 +51,11 @@ The third suspect told that he is a traveller and currently visiting the city. T
   ### Digital Evidence Seized
   | ID | DEVICE |
   |------|---------------|
-  |XXXX| Home Desktop |
-  || San Disk Pen Drive |
-  | | Dell Laptop |
-  |0003| Android Mobile |
-  | | Iphone |
+  |4CE0460DOG| Home Desktop |
+  |4C530001251204119145| San Disk Pen Drive |
+  |SK9YD87C7S3L| Dell Laptop |
+  |351841090120116| Android Mobile |
+  |352889119098366| Iphone |
   
 ## Suspects Summary:
   | Name | Offense | Charges | Bail Bond |
