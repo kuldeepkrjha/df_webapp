@@ -39,22 +39,22 @@
 	- [x] tries to access shady website in IE.
 	
 - [ ] 10-05-23
-	- [ ] buys guns online
-	- [ ] goes looking for rental car
+	- [x] buys guns online
+	- [x] goes looking for rental car
 	- [ ] has a photo of husband and the family.
-	- [ ] has a text file stating rules of engagement
+	- [x] has a text file stating rules of engagement
 	
 - [ ] 12-05-23
 	- [ ] got a screenshot of 0.25 BTC transfer from an escrow (different).
-	- [ ] got some more songs
-	- [ ] looking a hotel at new location(where he is caught)
-	- [ ] looking  for nearby guns shop and police stations.
+	- [x] got some more songs
+	- [x] looking a hotel at new location(where he is caught)
+	- [x] looking  for nearby guns shop and police stations.
 	- [ ] has photos of locality and the house.
 
 - [ ] 16-05-23
 	- [ ] got a screenshot of 0.25 BTC transfer from an escrow (different).
-	- [ ] searched for orphanage and schools nearby
-	- [ ] ticket to new city, new state
+	- [x] searched for orphanage and schools nearby
+	- [x] ticket to new city, new state
 
 ## Stalker's PD [Hariji] :
 
