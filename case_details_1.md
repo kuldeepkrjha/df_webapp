@@ -1,4 +1,4 @@
-<h3 align="center"> Case Number: 2022XXXXXX</h3>
+<h3 align="center"> Case Number: 20230510</h3>
 
 # TITLE - Stock Broker Homicide
 
@@ -52,9 +52,9 @@ The third suspect told that he is a traveller and currently visiting the city. T
   | ID | DEVICE |
   |------|---------------|
   |XXXX| Home Desktop |
-  | | San Disk Pen Drive |
+  || San Disk Pen Drive |
   | | Dell Laptop |
-  | | Android Mobile |
+  |0003| Android Mobile |
   | | Iphone |
   
 ## Suspects Summary:
