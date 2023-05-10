@@ -14,7 +14,7 @@ recently released from prison, while the third was found at a hotel by tracing t
 - [ ] Mohammad Nadir Khan - Investigating Officer - 1
 - [ ] Kuldeep Kumar Jha - Investigating Officer - 2
 - [ ] Sanskar Singh Chandel - Digital Forensics Examiner - 1
-- [ ] Yashwardhan Rastogi - Digital Forensics Examiner - 2
+- [x] Yashwardhan Rastogi - Digital Forensics Examiner - 2
 - [ ] Vasu Tilva - Mobile Forensics Examiner
 
 ## Case Details:
@@ -67,7 +67,12 @@ The third suspect told that he is a traveller and currently visiting the city. T
 ## Download Assets:
   - [ ] Asset 1
   - [ ] Asset 2
-  - [ ] ....
+  - [x] Asset 3
+       .
+       .
+  - [ ] Asset
+       .
+       .
   - [ ] Asset n
 
 ## Recommended Tools:
