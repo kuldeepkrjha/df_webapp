@@ -10,7 +10,7 @@ recently released from prison, while the third was found at a hotel by tracing t
 
 ## Lead Investigators:
 - [ ] Hemant Venugopal - Case Officer
-- [ ] Hariji Singh - Lead Investigating Officer
+- [x] Hariji Singh - Lead Investigating Officer
 - [ ] Mohammad Nadir Khan - Investigating Officer - 1
 - [ ] Kuldeep Kumar Jha - Investigating Officer - 2
 - [ ] Sanskar Singh Chandel - Digital Forensics Examiner - 1
