@@ -68,6 +68,7 @@ The third suspect told that he is a traveller and currently visiting the city. T
   - [ ] Asset 1
   - [ ] Asset 2
   - [x] Asset 3
+  - [x] Asset 4
        .
        .
   - [ ] Asset
